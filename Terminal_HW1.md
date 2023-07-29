@@ -81,6 +81,7 @@ cp folder2/{2.json,2.txt} folder2/folder5
 find -name 2.json
 ```
 **16. просмотреть содержимое в реальном времени (команда grep) изучите как она работает.**
+
 `tail -f folder3/1.txt | grep "testing"` - вывод строк с совпадением по тексту "testing" из файла 1.txt в терминал
 Нажать `Ctrl+C` для выхода
 
