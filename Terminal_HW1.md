@@ -39,7 +39,7 @@ vim 1.txt
 **10. Написать туда что-нибудь, любой текст.**
 Нажать `i` или `Insert` для начала редактирования файла и написать:
 ```
-Simplified testing classification.
+Simplified testing classification
 By code execution:
 - Static testing
 - Dynamic testing
@@ -83,6 +83,7 @@ find -name 2.json
 **16. просмотреть содержимое в реальном времени (команда grep) изучите как она работает.**
 `tail -f folder3/1.txt | grep "testing"` - вывод строк с совпадением по тексту "testing" из файла 1.txt в терминал
 Нажать `Ctrl+C` для выхода
+
 **17. вывести несколько первых строк из текстового файла**
 ```
 head -n 7 folder3/1.txt
