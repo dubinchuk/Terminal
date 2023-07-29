@@ -1,7 +1,9 @@
 ###Homework #1 Basic Linux commands / GitBash
 
 **1. Посмотреть где я**
-`pwd`
+```
+pwd
+```
 
 **2. Создать папку**
 `mkdir folder1`
